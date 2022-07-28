@@ -1,0 +1,14 @@
+\.listcache
+conf\.json
+node\.dll
+node_modules/
+plugins/bridge\.dll
+\.vscode/
+BugTrap-x64.dll
+server
+package-lock.json
+/.idea/*
+config.js
+positions.txt
+bin/
+*.exe
